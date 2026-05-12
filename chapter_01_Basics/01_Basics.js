@@ -1,4 +1,4 @@
 console.log("Hello Ankit")
 
-let a = 20;
+let a = 24;
 console.log(a);
