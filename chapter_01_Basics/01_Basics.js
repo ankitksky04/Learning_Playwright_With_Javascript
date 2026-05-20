@@ -1,4 +1,2 @@
-console.log("Hello Ankit")
-
-let a = 26;
-console.log(a);
+console.log("Hello The Testing Academy");
+let x = 10;
