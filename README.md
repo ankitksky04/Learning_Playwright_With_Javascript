@@ -15,6 +15,10 @@ Topics covered include:
 - Conditional logic with `if/else` and `switch`
 - User input handling in Node.js
 - Looping constructs and iteration practice
+- Arrays and common array methods
+- Functions, parameters, return values, closures, and higher-order functions
+- String methods and conversion
+- Objects, destructuring, spread, getters, setters, and references
 
 ## Folder Structure
 
@@ -29,6 +33,10 @@ chapter_07_If_else/
 chapter_08_Switch_Statement/
 chapter_09_UserInput/
 chapter_10_Loops/
+chapter_11_Arrays/
+chapter_12_Funtions/
+chapter_13_Strings/
+chapter_14_Objects/
 ```
 
 ## Chapter Guide
@@ -63,6 +71,18 @@ Taking user input in Node.js via `readline` and synchronous prompt flows.
 10. `chapter_10_Loops`
 Looping concepts and iteration-based examples.
 
+11. `chapter_11_Arrays`
+Array creation, access, add/remove operations, searching, iteration, transform methods, sorting, slicing, concatenation, and array checks.
+
+12. `chapter_12_Funtions`
+Function declarations, parameters, return values, function expressions, arrow functions, IIFE, default/rest/spread parameters, scope, closures, higher-order functions, and pure functions.
+
+13. `chapter_13_Strings`
+String creation, properties, indexing, search/check methods, substring/slice behavior, transformations, splitting/joining, and conversion.
+
+14. `chapter_14_Objects`
+Object literals, property access, primitive vs reference behavior, object examples, destructuring, spread, getters/setters, `this`, and `let` vs `const` with objects.
+
 ## Prerequisites
 
 - Node.js (LTS recommended)
@@ -83,6 +103,10 @@ From the project root:
 node chapter_01_Basics/01_Basics.js
 node chapter_06_Operator/30_Operator.js
 node chapter_09_UserInput/69_Node_readline.js
+node chapter_11_Arrays/83_Arrays.js
+node chapter_12_Funtions/96_Functions.js
+node chapter_13_Strings/118_Strings.js
+node chapter_14_Objects/124_Objects.js
 ```
 
 ## Recommended Learning Flow
